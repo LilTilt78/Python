@@ -22,3 +22,4 @@ Program by měl fungovat pro vetšinu měst na světě (odzkoušeno desítky mě
 
 TO DO:
 Data by mohla být dále zpracovávána v různých formách a následně by se s nimi mohlo nakládat dle uvážení.
+Ochrana proti opakovaným zápisům. Pokud skript zjistí, že oproti poslednímu vzorku nedošlo ke změně, nebude provádět zápis.
